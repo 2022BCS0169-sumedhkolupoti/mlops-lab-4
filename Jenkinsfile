@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         // Define environment variables
-        DOCKER_IMAGE = "sumedhkolupoti/mlops-lab-4"
+        DOCKER_IMAGE = "2022bcs0169sumedhkolupoti/mlops-lab-4"
         DOCKER_TAG = "${BUILD_NUMBER}"
         VENV_NAME = "venv"
         // Credentials binding
