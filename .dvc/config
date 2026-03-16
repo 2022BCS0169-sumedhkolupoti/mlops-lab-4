@@ -1,0 +1,4 @@
+[core]
+    remote = s3remote_2022bcs0169
+['remote "s3remote_2022bcs0169"']
+    url = s3://2022BCS0169/dvcstore
